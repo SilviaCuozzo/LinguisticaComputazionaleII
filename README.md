@@ -1,5 +1,5 @@
 # LinguisticaComputazionaleII
-Progetto universitario realizzato in collaborazione con Camilla Zucchi. Per la sua realizzazione, ho utilizzato la shell di Linux per eseguire alcuni comandi come lo script "CoNLL2018 Sharedtask: Multilingual Parsing from Raw Text to Universal Dependencies" e lo script per il calcolo dell’interannotator agreement.
+Progetto universitario realizzato in collaborazione con Camilla Zucchi. Per la sua realizzazione, ho utilizzato UDPipe e la shell di Linux per eseguire alcuni comandi come lo script "CoNLL2018 Sharedtask: Multilingual Parsing from Raw Text to Universal Dependencies" e lo script per il calcolo dell’interannotator agreement.
 
 # Fasi del progetto
 # Costruzione di un test corpus per valutare l’accuratezza di analisi di una catena di annotazione linguistica automatica
